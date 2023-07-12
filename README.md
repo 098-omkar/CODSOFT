@@ -1,2 +1,2 @@
 # CODSOFT
-This is my CODSOFT repository which i have created to complete my projects.
+This is my CODSOFT repository, which i have created during Internship for Developing projects/.
